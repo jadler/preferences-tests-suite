@@ -29,7 +29,7 @@ Add this project as a `test`-scoped dependency to the Preferences implementation
 <dependency>
   <groupId>br.dev.jadl.preferences</groupId>
   <artifactId>preferences-tests-suite</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <scope>test</scope>
 </dependency>
 ```

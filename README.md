@@ -59,4 +59,4 @@ Feel free to open issues or pull requests to report bugs or suggest improvements
 You can also contribute new test modules for different storage backends.
 
 ## License
-This project is licensed under the MIT License. See LICENSE for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
